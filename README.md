@@ -1,7 +1,7 @@
 # Brainwave
+<img width="100%" src="https://github.com/yunyoungsik/Brainwave/blob/main/src/assets/thumnail.png?raw=true?raw=true" />
 
 [참고영상](https://www.youtube.com/watch?v=B91wc5dCEBA&ab_channel=JavaScriptMastery)
-1시간26분02초까지 작업함
 
 # 설치
 
